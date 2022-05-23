@@ -5,8 +5,8 @@
         "city" : "Scarborough",
         "Address" : "1615 Ellesmere Rd, Scarborough ON M1P 2Y3, Canada",
         "phoneNumber" : "+1 (416) 289-7476",
-        "NormalGas" : 204,
-        "PremiumGas" : 215
+        "NormalGas" : 195.9,
+        "PremiumGas" : 235.9
     },
     {
         "id" : 2,
@@ -14,8 +14,8 @@
         "city" : "Brampton",
         "Address" : "1651 Ellesmere Rd, Scarborough ON M1H 2V4, Canada",
         "phoneNumber" : "+1 (416) 289-4242",
-        "NormalGas" : 115,
-        "PremiumGas" : 180
+        "NormalGas" : 198.9,
+        "PremiumGas" : 222.5
     }
     
 ]
