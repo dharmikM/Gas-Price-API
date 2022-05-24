@@ -1,0 +1,21 @@
+[
+    {
+        "id" : 1,
+        "name" : "ESSO",
+        "city" : "Scarborough",
+        "Address" : "1615 Ellesmere Rd, Scarborough ON M1P 2Y3, Canada",
+        "phoneNumber" : "+1 (416) 289-7476",
+        "NormalGas" : 204,
+        "PremiumGas" : 215
+    },
+    {
+        "id" : 2,
+        "name" : "Petro-Canada",
+        "city" : "Brampton",
+        "Address" : "1651 Ellesmere Rd, Scarborough ON M1H 2V4, Canada",
+        "phoneNumber" : "+1 (416) 289-4242",
+        "NormalGas" : 115,
+        "PremiumGas" : 180
+    }
+    
+]
